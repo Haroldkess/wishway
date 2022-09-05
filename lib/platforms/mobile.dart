@@ -146,7 +146,7 @@ class _MobileHomeBannerState extends State<MobileHomeBanner> {
                   crossAxisAlignment: CrossAxisAlignment.center,
                   children: [
                     Card(
-                      elevation: 30.0,
+                      elevation: 20.0,
                       shadowColor: HexColor('#F8842F'),
                       child: Image.asset(
                         'images/appstore2.png',
